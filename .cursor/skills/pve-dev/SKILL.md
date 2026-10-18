@@ -1,5 +1,5 @@
 ---
-name: pve-eag-cloudflare
+name: pve-dev
 description: >-
   Creates, connects to, and cleans up disposable test VMs on the EAG Proxmox VE
   server through the Cloudflare Access SSH tunnel at eric-pve-ssh.eag.tools.
